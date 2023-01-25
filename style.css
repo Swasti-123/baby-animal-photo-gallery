@@ -1,0 +1,68 @@
+.menu1{
+    font-size: 20px;
+    z-index: 10;
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+  
+}
+
+.links {
+    float: left;
+    padding: 10px;
+    font-size: 30px;
+    margin-right:355px ;
+}
+
+
+a {
+    color:black;
+}
+
+.links:hover {
+
+    font-size: 40px;
+    background-color:rgb(228, 178, 253);
+    border:solid 2px black;
+    border-radius: 50px;
+}
+
+html{
+    background-color: rgb(215, 190, 239);
+}
+
+#home{
+    background-color:  rgb(215, 190, 239);
+}
+
+#homeimg{
+    width: 1500px;
+}
+
+.gridImgs{
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+}
+
+#Grids{
+    background-color: rgb(215, 190, 239) ;
+}
+
+.img-responsive{
+    width: 500px;
+    height: 600px;
+}
+
+.carousel-content{
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+}
+
+#slides{
+    background-color:  rgb(215, 190, 239);
+}
+
